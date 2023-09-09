@@ -9,9 +9,12 @@ This project is built on the Flutter framework.
 An ID showing username, avatar and link to user's GitHub profile.
 
 ### Prerequisites
-Flutter SDK installed in your machine: https://flutter.dev/docs/get-started/install
+- Flutter SDK installed in your machine: https://flutter.dev/docs/get-started/install
+- Android version 8 or newer.
 
-
+### Installing
+- Run build task
+- Install apk
 ```sh
 
 Plugins:
