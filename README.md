@@ -9,15 +9,12 @@ This project is built on the Flutter framework.
 An ID showing username, avatar and link to user's GitHub profile.
 
 ### Prerequisites
-- Flutter SDK installed in your machine: https://flutter.dev/docs/get-started/install
-- Android version 8 or newer.
+- Flutter SDK '>=2.19.0-146.2.beta <3.0.0' installed in your machine: https://flutter.dev/docs/get-started/install
 
-### Installing
-- Run build task
-- Install apk
+
 ```sh
 
 Plugins:
-    - webview_flutter
+    - flutter_custom_tabs: version ^1.0.4 or newer.
 
 GitHub: 'https://github.com/chizzykas'

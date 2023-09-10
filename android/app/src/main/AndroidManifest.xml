@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.c_c_leo_stage_1">
    <application
-        android:label="c_c_leo_stage_1"
+        android:label="GitHub ID"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
